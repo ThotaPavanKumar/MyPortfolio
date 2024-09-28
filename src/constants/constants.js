@@ -1,23 +1,27 @@
 export const projects = [
   {
-    title: 'Ajio',
-    description: "AJIO, a fashion and lifestyle brand, is Reliance Retail’s digital commerce initiative and is the ultimate fashion destination for styles that are handpicked, on trend and at prices that are the best you’ll find anywhere.",
-      image: '/images/1.png',
-      tags: ['HTML', 'CSS','JavaScript', 'Node', "Express"],
-      source: 'https://github.com/ThotaPavanKumar/AJIO_Full_Stack_Clone',
-      visit: 'https://ajioclone.herokuapp.com/',
+    title: "Zara",
+    description:
+      "Zara SA, stylized as ZARA, is a Spanish apparel retailer based in Spain. The company specializes in fast fashion, and products include clothing, accessories, shoes, swimwear, beauty, and perfumes.",
+    // description: "AJIO, a fashion and lifestyle brand, is Reliance Retail’s digital commerce initiative and is the ultimate fashion destination for styles that are handpicked, on trend and at prices that are the best you’ll find anywhere.",
+    image: "/images/2.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    source: "https://github.com/ThotaPavanKumar/Zara_Project_Clone",
+    visit: "https://thotapavankumar.github.io/Zara_Project_Clone/",
     id: 0,
   },
   {
-    title: 'Zara',
-    description:"Zara SA, stylized as ZARA, is a Spanish apparel retailer based in Spain. The company specializes in fast fashion, and products include clothing, accessories, shoes, swimwear, beauty, and perfumes.",
-    // description: "AJIO, a fashion and lifestyle brand, is Reliance Retail’s digital commerce initiative and is the ultimate fashion destination for styles that are handpicked, on trend and at prices that are the best you’ll find anywhere.",
-    image: '/images/2.png',
-    tags: ['HTML', 'CSS', 'JavaScript'],
-    source: 'https://github.com/ThotaPavanKumar/Zara_Project_Clone',
-    visit: 'https://thotapavankumar.github.io/Zara_Project_Clone/',
+    title: "DriveU",
+    description:
+      "DriveU,Punctured is an upcoming startup that aggregates nearby puncture shops for both 2 & 4 wheelers.Their presence is on Mobile App and they want to expose their core offerings on their website as well.",
+    image: "/images/driveU.jpeg",
+    tags: ["HTML", "CSS", "JavaScript"],
+    source:
+      "https://github.com/ThotaPavanKumar/DriveU-create-Puncture-Startup_website",
+    visit: "https://drive-u-create-puncture-startup-website.vercel.app/",
     id: 1,
   },
+
   // {
   //   title: 'Timecamp',
   //   description: "Timecamp is basically used for time management. It gives you the reports of time spend by you on a particular projects as well as tasks. Features - Signin, Signup, Active task page, Adding the project and tasks",
@@ -36,25 +40,15 @@ export const projects = [
   //   visit: 'https://daily-diet-box-ajcodeskills.vercel.app/',
   //   id: 3,
   // },
-  
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2017, text: "Started my journey" },
+  { year: 2018, text: "Worked as a freelance developer" },
+  { year: 2019, text: "Founded JavaScript Mastery" },
+  { year: 2020, text: "Shared my projects with the world" },
+  { year: 2021, text: "Started my own platform" },
 ];
-
-
-
-
-
-
-
-
-
 
 // export const projects = [
 //   // {
@@ -77,7 +71,7 @@ export const TimeLineData = [
 //     visit: 'https://thotapavankumar.github.io/Zara_Project_Clone/',
 //     id: 1,
 //   },
-  
+
 //   {
 //     title: 'Zara',
 //     description: "Zara SA, stylized as ZARA, is a Spanish apparel retailer based in Spain. The company specializes in fast fashion, and products include clothing, accessories, shoes, swimwear, beauty, and perfumes. Features - Signin, Signup, Womens page.",
@@ -86,15 +80,6 @@ export const TimeLineData = [
 //     source: 'https://github.com/ThotaPavanKumar/Zara_Project_Clone',
 //     visit: 'https://thotapavankumar.github.io/Zara_Project_Clone/',
 //     id: 2,
-//   },  
-//   {
-//     title: 'Zara',
-//     description: "Zara SA, stylized as ZARA, is a Spanish apparel retailer based in Spain. The company specializes in fast fashion, and products include clothing, accessories, shoes, swimwear, beauty, and perfumes. Features - Signin, Signup, Womens page.",
-//       image: '/images/4.png',
-//       tags: ['HTML', 'CSS', 'JavaScript'],
-//     source: 'https://github.com/ThotaPavanKumar/Zara_Project_Clone',
-//     visit: 'https://thotapavankumar.github.io/Zara_Project_Clone/',
-//     id: 3,
 //   },
 //   {
 //     title: 'Zara',
@@ -105,7 +90,16 @@ export const TimeLineData = [
 //     visit: 'https://thotapavankumar.github.io/Zara_Project_Clone/',
 //     id: 3,
 //   },
-  
+//   {
+//     title: 'Zara',
+//     description: "Zara SA, stylized as ZARA, is a Spanish apparel retailer based in Spain. The company specializes in fast fashion, and products include clothing, accessories, shoes, swimwear, beauty, and perfumes. Features - Signin, Signup, Womens page.",
+//       image: '/images/4.png',
+//       tags: ['HTML', 'CSS', 'JavaScript'],
+//     source: 'https://github.com/ThotaPavanKumar/Zara_Project_Clone',
+//     visit: 'https://thotapavankumar.github.io/Zara_Project_Clone/',
+//     id: 3,
+//   },
+
 // ];
 
 // export const TimeLineData = [
